@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Blooket Unbannable Coin/XP Script
+// @name         Blooket Unbannable Coin/XP Script FIXED
 // @namespace    http://tampermonkey.net/
 // @version      1.7
 // @description  Automatically answers questions randomly and clicks continue in Blooket Study mode
